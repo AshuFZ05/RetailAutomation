@@ -1,8 +1,3 @@
-https://drive.google.com/file/d/14glM_wzrSMh0dvD4kdcPGu6kOuXWxnnj/view?usp=sharing
-
-## Download Project ZIP
-[Click here to download (935 MB)](https://drive.google.com/your-link](https://drive.google.com/file/d/14glM_wzrSMh0dvD4kdcPGu6kOuXWxnnj/view?usp=sharing)
-
 🛒 Retail Checkout Automation System
 A computer vision-based retail checkout system developed using YOLOv5, Flask, and Python to automate product detection and billing. This project demonstrates the integration of deep learning models into real-time applications, reducing human effort in retail environments.
 
@@ -26,3 +21,5 @@ The full project including the YOLOv5 weights (best.pt) and datasets is provided
 
 📥 Download ZIP (935 MB)
 (https://drive.google.com/file/d/14glM_wzrSMh0dvD4kdcPGu6kOuXWxnnj/view?usp=sharing)
+
+This is a Final Year project collaborated within 4 members. This is an original piece of work.
